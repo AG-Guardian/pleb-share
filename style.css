@@ -1,0 +1,14 @@
+#video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: grab;
+    width: 0px;
+    height: 0px;
+    transform-origin: top left;
+}
+
+body {
+    overflow: hidden;
+    background-color: #333;
+}
